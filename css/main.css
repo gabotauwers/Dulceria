@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+#menu a, button{
+    font-size: 18px !important;
+    font-weight: 600;
+    
+}
+#menu a{
+    color:#3f3f3f;
+     
+}
+.carousel-inner {
+    max-height:39rem !important;
+}
+footer {
+    background:#f26a8d;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
+#iconos  i {
+    font-size: 26px;
+    padding: 0 8px;
+    color:#f3f3f3;
+}
